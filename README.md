@@ -21,7 +21,7 @@ Designed and implemented a dynamic Tic-Tac-Toe game in C++ using the Ncurses lib
    ```
 2. Compile the program using g++:
    ```
-   g++ -o tic_tac_toe tic_tac_toe.cpp -lncurses
+   g++ -o tic_tac_toe.cpp -lncurses
    ```
 
 ## Usage Instructions

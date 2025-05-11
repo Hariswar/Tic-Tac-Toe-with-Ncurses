@@ -15,10 +15,7 @@ Designed and implemented a dynamic Tic-Tac-Toe game in C++ using the Ncurses lib
 - Ncurses library installed on the system.
 
 ## Compilation Instructions
-1. Ensure you have Ncurses installed on your system. You can install it using your package manager:
-   ```
-   sudo apt-get install libncurses5-dev libncursesw5-dev  # For Debian-based systems
-   ```
+1. Ensure you have Ncurses installed on your system.
 2. Compile the program using g++:
    ```
    g++ -o tic_tac_toe.cpp -lncurses

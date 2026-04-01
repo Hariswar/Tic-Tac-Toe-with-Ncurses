@@ -64,7 +64,8 @@ Designed and implemented a dynamic Tic-Tac-Toe game in C++ using the Ncurses lib
 
 This project is licensed under the MIT License. See `LICENSE` for details.
 
-## Acknowledgments
+## Example Outputs
 
-- Ncurses documentation and tutorials.
-- Inspiration from classic Tic Tac Toe implementations.
+![FrontEnd](pictures/intro.png)
+![Example 1](pictures/pic_one.png)
+![Example 2](pictures/pic_two.png)

@@ -66,6 +66,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Example Outputs
 
-![FrontEnd](pictures/intro.png)
-![Example 1](pictures/pic_one.png)
-![Example 2](pictures/pic_two.png)
+<img src="pictures/intro.png" alt="FrontEnd" width="520" />
+<img src="pictures/pic_one.png" alt="Example 1" width="520" />
+<img src="pictures/pic_two.png" alt="Example 2" width="520" />
